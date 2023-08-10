@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: cvdejan/dispatch-service
+  IMAGE_NAME: cvdejan/dispatcher-service
   VERSION: latest
 
 jobs:
